@@ -1,16 +1,18 @@
 # Amazon Product Page Clone
 
-A responsive Amazon product page clone built with **HTML & CSS** as a learning project from the [Scrimba HTML & CSS Course](https://scrimba.com/learn-html-and-css-c0p).
+An Amazon product page clone built with **HTML & CSS** as a learning project from the [Scrimba HTML & CSS Course](https://scrimba.com/learn-html-and-css-c0p).
 
-## 🎯 Project Overview
+![Amazon Product Page Clone](./images/screenshot.png)
 
-This is a static recreation of an Amazon product page, demonstrating core web design principles including semantic HTML structure and CSS layout techniques. The project showcases the use of **Flexbox** for responsive and flexible component arrangement.
+## Project Overview
 
-## 🚀 Live Demo
+This is a static recreation of an Amazon product page, demonstrating core web design principles including semantic HTML structure and CSS layout techniques. The project showcases the use of **Flexbox** for flexible component arrangement.
+
+## Live Demo
 
 Check out the live version here: [https://shabasy-amazon-product-page.netlify.app/](https://shabasy-amazon-product-page.netlify.app/)
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 Amazon-Product-Page/
@@ -19,29 +21,28 @@ Amazon-Product-Page/
 └── images/         # Product images and assets
 ```
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **HTML5** - Semantic markup and structure
-- **CSS3** - Styling, Flexbox layouts, and responsive design
+- **CSS3** - Styling, and Flexbox layouts
 
-## 📚 What I Learned
+## What I Learned
 
 This project helped me practice:
-- Writing clean, semantic HTML
+- Writing HTML
 - CSS Flexbox for layout and alignment
-- Responsive design principles
 - Building reusable component-based layouts
 
-## 📄 Course Reference
+## Course Reference
 
 This project is based on the **[Scrimba HTML & CSS Course](https://scrimba.com/learn-html-and-css-c0p)** - a comprehensive course that covers the fundamentals of web design and layout.
 
-## 👨‍💼 About Me
+## About Me
 
 I'm a web developer learning and building projects to strengthen my skills. Connect with me:
 - **LinkedIn**: [linkedin.com/in/shabasy](https://linkedin.com/in/shabasy)
 
-## 📝 License
+## License
 
 This project is provided as-is for educational purposes.
 
